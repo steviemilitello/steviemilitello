@@ -1,7 +1,4 @@
-
-
-Hi 👋 My name is Stevie Militello
-- 😄 Pronouns: She/Her
+Hi 👋 My name is Stevie (She/Her)
 =================================
 
 Software Engineer
