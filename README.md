@@ -4,7 +4,7 @@ Hi 👋 My name is Stevie (She/Her)
 Software Engineer
 -----------------
 
-I am a creative and who is passionate about bringing good design and accessibility to software engineering. I care about representation for all types of people in tech.
+I am a creative who is passionate about bringing good design and accessibility to software engineering. I care about representation for all types of people in tech.
 
 * 🌍  I'm based in Boston
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
