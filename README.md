@@ -7,8 +7,8 @@ Software Engineer
 I am a creative who is passionate about bringing good design and accessibility to software engineering. I care about representation for all types of people in tech.
 
 * 🌍  I'm based in Boston, MA
-* 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
 * 🌱 I’m currently diving into Python, Algorithms and Data Structures
+* 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
 * ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
 
 ### Skills
