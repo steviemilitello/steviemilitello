@@ -9,7 +9,7 @@ I am a creative who is passionate about bringing good design and accessibility t
 * 🌍  I'm based in Boston, MA
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
 * 🌱 I’m currently diving into Python, Algorithms and Data Structures
-* * ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
+* ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
 
 ### Skills
 
