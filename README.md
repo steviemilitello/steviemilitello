@@ -1,4 +1,4 @@
-Hi 👋 My name is Stevie (She/Her) 🏳️‍⚧️
+Hi 👋 My name is Stevie
 =================================
 
 Software Engineer
