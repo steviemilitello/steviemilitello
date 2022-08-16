@@ -1,9 +1,6 @@
 Hi 👋 My name is Stevie
 =================================
 
-Software Engineer
------------------
-
 I am pivoting to Software Engineering after working for 4 years in Non-Profits as a Teacher and Theater Technician. I enjoy collaborating with other programmers and designers on projects and bringing my artistic talent to coding.
 
 * 🌱 I’m currently diving into Python, Algorithms and Data Structures
