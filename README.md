@@ -1,4 +1,4 @@
-Hi 👋 My name is Stevie
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C474C8&width=435&lines=Hi+%F0%9F%91%8B+My+name+is+Stevie" alt="Typing SVG" /></a>
 =================================
 
 I am pivoting to Software Engineering after working for 4 years in Non-Profits as a Teacher and Theater Technician. I enjoy collaborating with other programmers and designers on projects and bringing my artistic talent to coding.
