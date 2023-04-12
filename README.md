@@ -6,6 +6,15 @@ I am pivoting to Software Engineering after working for 4 years in Non-Profits a
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
 * ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
 
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=tavern-brawl&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/tavern-brawl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=ttrpg-tracker&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/ttrpg-tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=ghostbustr-api&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/ghostbustr-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=ghostbustr-client&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/ghostbustr-client)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=check-my-fit-api&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/check-my-fit-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=check-my-fit-client&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/check-my-fit-client)
+
 ### Skills
 
 <p align="left">
