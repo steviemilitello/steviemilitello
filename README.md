@@ -15,6 +15,10 @@ I am pivoting to Software Engineering after working for 4 years in Non-Profits a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=check-my-fit-api&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/check-my-fit-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=check-my-fit-client&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/check-my-fit-client)
 
+### Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=steviemilitello&theme=synthwave&card_width=800)](https://git.io/streak-stats)
+
 ### Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
