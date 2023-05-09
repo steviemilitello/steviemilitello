@@ -2,9 +2,14 @@
 ===================================================================
 I am pivoting to Software Engineering after working in Non-Profits as a Teacher and Theater Technician. I enjoy collaborating with other programmers and designers on projects and bringing my artistic talent to coding.
 
-* 🌱 I’m currently diving into Algorithms, Data Structures
+* 🌱 I’m currently diving into Algorithms, Data Structures and TypeScript
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
 * ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
+
+### Currently
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=coding-notes&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/coding-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=hackerrank-practice&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/hackerrank-practice)
 
 ### Projects
 
