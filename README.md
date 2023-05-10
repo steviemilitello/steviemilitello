@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C474C8&vCenter=true&width=435&height=35&lines=Hi+%F0%9F%91%8B+My+name+is+Stevie)](https://git.io/typing-svg)
 ===================================================================
-I am pivoting to Software Engineering after working in Non-Profits as a Teacher and Theater Technician. I enjoy collaborating with other programmers and designers on projects and bringing my artistic talent to coding.
+I am pivoting to Software Engineering after working in Non-Profits for 4 years as a Teacher and Theater Technician. I enjoy collaborating with other programmers and designers on projects and bringing my artistic talent to coding.
 
 * 🌱 I’m currently diving into Algorithms, Data Structures and TypeScript
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
