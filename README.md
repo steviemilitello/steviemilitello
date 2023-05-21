@@ -2,7 +2,7 @@
 ===================================================================
 I am pivoting to Software Engineering after working in Non-Profits for 4 years as a Teacher and Theater Technician. I enjoy collaborating with other programmers and designers on projects and bringing my artistic talent to coding.
 
-* 🌱 I’m currently diving into Algorithms, Data Structures and TypeScript
+* 🌱 I’m currently diving into Algorithms and Data Structures
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
 * ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
 
