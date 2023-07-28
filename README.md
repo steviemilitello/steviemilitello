@@ -9,7 +9,6 @@ I am pivoting to Software Engineering after working in Non-Profits as a Teacher 
 
 ### Currently
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=hackerrank-practice&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/hackerrank-practice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=steviemilitello&repo=python-selenium-practice&theme=react&bg_color=1F222E&title_color=C474C8&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/steviemilitello/python-selenium-practice.git)
 
 ### Projects
