@@ -4,7 +4,6 @@ I am pivoting to Software Engineering after working in Non-Profits as a Teacher 
 
 * 🌱 I’m currently diving into Typescript, Algorithms and Data Structures
 * 🖥️  See my portfolio at [Stevie Codes](http://steviecodes.com)
-* ✏️ See my blog at [Stevie Militello](https://medium.com/@steviemilitello)
 * ✉️  You can contact me at [steviemilitello@gmail.com](mailto:steviemilitello@gmail.com)
 
 ### Projects
